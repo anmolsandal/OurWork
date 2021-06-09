@@ -12,6 +12,8 @@ https://play.google.com/store/apps/details?id=com.cravetulum.user
 
 https://play.google.com/store/apps/details?id=com.cravetulum.provider
 
+https://play.google.com/store/apps/details?id=com.aqoura.aqoura
+
 
 IOS
 
